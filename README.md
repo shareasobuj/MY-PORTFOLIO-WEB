@@ -22,7 +22,7 @@
     body{
       margin:0;
       font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-      background: linear-gradient(180deg,var(--bg),#071020 120%);
+      background: linear-gradient(180deg,var(--bg),green 120%);
       color:#e6eef6;
       -webkit-font-smoothing:antialiased;
       -moz-osx-font-smoothing:grayscale;
